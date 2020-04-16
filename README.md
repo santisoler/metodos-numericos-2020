@@ -8,6 +8,7 @@ Las resoluciones a dichas prácticas son publicadas en formato de Jupyter
 Notebooks:
 
 - [Práctica 1: Solución de sistema de ecuaciones lineales](https://github.com/santisoler/metodos-numericos-2020/blob/master/practicas/01%20Sistemas%20de%20Ecuaciones%20Lineales.ipynb)
+-%20[Práctica%202:%20Interpolación%20y%20Extrapolación](https://github.com/santisoler/metodos-numericos-2020/blob/master/practicas/02%20Interpolacion%20y%20Extrapolacion.ipynb)
 
 
 ## Cómo correr los notebooks
