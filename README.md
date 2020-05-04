@@ -10,6 +10,7 @@ Notebooks:
 - [Práctica 1: Solución de sistema de ecuaciones lineales](https://nbviewer.jupyter.org/github/santisoler/metodos-numericos-2020/blob/master/practicas/01%20Sistemas%20de%20Ecuaciones%20Lineales.ipynb)
 - [Práctica 2: Interpolación y Extrapolación](https://nbviewer.jupyter.org/github/santisoler/metodos-numericos-2020/blob/master/practicas/02%20Interpolacion%20y%20Extrapolacion.ipynb)
 - [Práctica 3: Integrales y Derivadas](https://nbviewer.jupyter.org/github/santisoler/metodos-numericos-2020/blob/master/practicas/03%20Integrales%20y%20Derivadas.ipynb)
+- [Práctica 4: Números Aleatorios y Estadística de Datos](https://nbviewer.jupyter.org/github/santisoler/metodos-numericos-2020/blob/master/practicas/04%20Numeros%20Aleatorios%20y%20Estadistica%20de%20Datos.ipynb)
 
 
 ## Cómo correr los notebooks
