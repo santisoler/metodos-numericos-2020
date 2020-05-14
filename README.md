@@ -12,6 +12,7 @@ Notebooks:
 - [Práctica 3: Integrales y Derivadas](https://nbviewer.jupyter.org/github/santisoler/metodos-numericos-2020/blob/master/practicas/03%20Integrales%20y%20Derivadas.ipynb?flush_cache=true)
 - [Práctica 4: Números Aleatorios y Estadística de Datos](https://nbviewer.jupyter.org/github/santisoler/metodos-numericos-2020/blob/master/practicas/04%20Numeros%20Aleatorios%20y%20Estadistica%20de%20Datos.ipynb?flush_cache=true)
 - [Práctica 5: Raíces de Funciones](https://nbviewer.jupyter.org/github/santisoler/metodos-numericos-2020/blob/master/practicas/05%20Raices%20de%20Funciones.ipynb?flush_cache=true)
+- [Práctica 6: Mínimos y Máximos de Funciones](https://nbviewer.jupyter.org/github/santisoler/metodos-numericos-2020/blob/master/practicas/06%20Minimos%20y%20Maximos%20de%20Funciones.ipynb?flush_cache=true)
 
 
 ## Cómo correr los notebooks
