@@ -13,6 +13,7 @@ Notebooks:
 - [Práctica 4: Números Aleatorios y Estadística de Datos](https://nbviewer.jupyter.org/github/santisoler/metodos-numericos-2020/blob/master/practicas/04%20Numeros%20Aleatorios%20y%20Estadistica%20de%20Datos.ipynb?flush_cache=true)
 - [Práctica 5: Raíces de Funciones](https://nbviewer.jupyter.org/github/santisoler/metodos-numericos-2020/blob/master/practicas/05%20Raices%20de%20Funciones.ipynb?flush_cache=true)
 - [Práctica 6: Mínimos y Máximos de Funciones](https://nbviewer.jupyter.org/github/santisoler/metodos-numericos-2020/blob/master/practicas/06%20Minimos%20y%20Maximos%20de%20Funciones.ipynb?flush_cache=true)
+- [Práctica 8: Transformada de Fourier](https://nbviewer.jupyter.org/github/santisoler/metodos-numericos-2020/blob/master/practicas/08%20Transformada%20de%20Fourier.ipynb?flush_cache=true)
 
 
 ## Cómo correr los notebooks
