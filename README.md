@@ -15,6 +15,9 @@ Notebooks:
 - [Práctica 6: Mínimos y Máximos de Funciones](https://nbviewer.jupyter.org/github/santisoler/metodos-numericos-2020/blob/master/practicas/06%20Minimos%20y%20Maximos%20de%20Funciones.ipynb?flush_cache=true)
 - [Práctica 8: Transformada de Fourier](https://nbviewer.jupyter.org/github/santisoler/metodos-numericos-2020/blob/master/practicas/08%20Transformada%20de%20Fourier.ipynb?flush_cache=true)
 
+> Nota: La clase número 7 no solicitaba la resolución de ningún trabajo
+> práctico.
+
 
 ## Cómo correr los notebooks
 
