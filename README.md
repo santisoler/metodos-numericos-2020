@@ -1,5 +1,7 @@
 # Métodos Numéricos 2020
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/santisoler/metodos-numericos-2020/master)
+
 En este repositorio se subirán las resoluciones a las prácticas propuestas en
 el curso de Métodos Numéricos dictado por Jorge Correa Otto desde el
 Departamento de Posgrado de la FCEFyN, Universidad Nacional de San Juan.
