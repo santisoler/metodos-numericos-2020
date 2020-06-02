@@ -23,7 +23,16 @@ Notebooks:
 
 ## Cómo correr los notebooks
 
-Para correr los notebooks es necesario instalar una distribución de Python.
+### Binder
+
+Podemos correr los notebooks a través de
+[Binder](https://mybinder.org/v2/gh/santisoler/metodos-numericos-2020/master).
+
+### Anaconda
+
+Alternativamente, podemos descargar los notebooks y correrlos en nuestra
+máquina.
+Para ello es necesario instalar una distribución de Python.
 Una de las mejores opciones es instalar [Anaconda](https://www.anaconda.com/).
 
 Luego podemos clonar este repositorio a través de `git`:
